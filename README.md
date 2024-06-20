@@ -1,6 +1,4 @@
-# MobileDev-Store-App
-Mobile Shopping App Project
-by Andrew Ferrand
+# Mobile Shopping App Project
 
 This mobile application is designed to provide users with a seamless shopping experience from browsing electronic products to checkout. 
 It includes features like user authentication, product browsing, a shopping cart, order management, and user profiles.
